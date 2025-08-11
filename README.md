@@ -33,9 +33,36 @@ It transforms raw sales data into a **clear, interactive, and visually appealing
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)  
-*(Replace `dashboard.png` with your actual screenshot file name in the repo)*
+[![Dashboard Screenshot](https://github.com/Raja-718/powerbi-mobile-sales-analytics/blob/main/Mobile%20Sales%20Dashboard.png)](https://github.com/Raja-718/powerbi-mobile-sales-analytics/blob/main/Mobile%20Sales%20Dashboard.png)  
+
+*This Power BI dashboard presents a complete overview of mobile sales performance. It includes KPIs such as Total Sales, Quantity, and Transactions; city-wise distribution on a map; monthly sales trends; customer ratings breakdown; payment method preferences; and top-performing brands and models.*  
+
 
 ---
 
-## 📂 Repository Structure
+## 🙌 Thanks for Visiting!
+
+Thank you for taking the time to explore this project.  
+If you found it helpful or inspiring, please consider dropping a 🌟 — it truly means a lot!
+
+---
+
+## 💬 Let’s Connect & Collaborate
+
+I’m always open to feedback, improvements, or even just a good tech conversation! 😊
+
+- 🐞 **Found a bug?** Feel free to open an issue.  
+- 💡 **Have an idea?** Pull requests are always welcome.  
+- 💬 **Suggestions or thoughts?** Start a discussion!  
+
+---
+
+## 📬 Contact Me
+
+- 📧 **Email:** [rajababu147a@gmail.com)  
+- 🌐 **GitHub:** [@Raja-718](https://github.com/Raja-718)  
+
+---
+
+
+
